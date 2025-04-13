@@ -7,10 +7,15 @@ AI-powered multi-agent system built using the Google Agent Developer Toolkit, de
 
 <img align="right"  alt="Coding"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21mNDJid3IxdW1kNTJtb25zajh3aHU2bjRtbGt2am04NmQ1a3V3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKGzFba1fQEuthrkQ/giphy.gif">
 
-## Required library to run the app
+## To run the app
 
 ```bash
+  git clone https://github.com/DhanaVazanth/Google-Agent-Developer-ToolKit.git
+
+  cd Google-Agent-Developer-ToolKit/
 
   pip install -r requiremnets.txt
+
+  adk web
 
 ```
