@@ -1,4 +1,4 @@
-# Google-Agent-Developer-ToolKit
+<h1 align="center">Google-Agent-Developer-ToolKit</h1>
 
 <img align="center" height = 350 alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:1200/1*-EyccfIyyvstrjlh3qSjuw.png">
 
